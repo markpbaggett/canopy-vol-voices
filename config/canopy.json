@@ -1,0 +1,10 @@
+{
+  "collection": "https://digital.lib.utk.edu/assemble/collection/collections/volvoices",
+  "devCollection": "https://digital.lib.utk.edu/assemble/collection/collections/volvoices",
+  "featured": [
+    "https://digital.lib.utk.edu/assemble/manifest/volvoices/2284",
+    "https://digital.lib.utk.edu/assemble/manifest/volvoices/2981"
+  ],
+  "metadata": ["Date", "Subject", "Place", "Time Period"],
+  "label": { "none": ["Volunteer Voices"] }
+}
