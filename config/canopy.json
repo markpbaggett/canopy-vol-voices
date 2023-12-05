@@ -5,6 +5,6 @@
     "https://digital.lib.utk.edu/assemble/manifest/volvoices/2284",
     "https://digital.lib.utk.edu/assemble/manifest/volvoices/2981"
   ],
-  "metadata": ["Date", "Subject", "Place", "Time Period"],
+  "metadata": ["Subject", "Place", "Time Period", "Provided by"],
   "label": { "none": ["Volunteer Voices "] }
 }
